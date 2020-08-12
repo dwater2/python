@@ -1,0 +1,3 @@
+Meu arquivo de texto
+Olá Mundo
+Estudando Python
